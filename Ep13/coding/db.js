@@ -1,7 +1,7 @@
 //mongodb+srv://piyu5496:SWwl8U8Dby1vdDil@namastenode.hkw0v.mongodb.net/?retryWrites=true&w=majority&appName=namasteNode
 const {MongoClient} = require('mongodb');
 const { ObjectId } = require("mongodb");
-const URL = 'mongodb+srv://piyu5496:SWwl8U8Dby1vdDil@namastenode.hkw0v.mongodb.net/?retryWrites=true&w=majority&appName=namasteNode';
+const URL = 'mongodb+srv://<username>:<password>.hkw0v.mongodb.net/?retryWrites=true&w=majority&appName=namasteNode';
 
 const client = new MongoClient(URL);
 const dbName ='first';

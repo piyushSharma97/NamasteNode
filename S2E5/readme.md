@@ -2,7 +2,7 @@
 
 ## Code Demonstration Link
 
-* [DevTinder Backend Repository](https://github.com/akshadjaiswal/devTinder-backend)
+* [DevTinder Backend Repository](https://github.com/piyushSharma97/DevTinder-backend)
 
 ## Middlewares and Error Handlers in Express
 

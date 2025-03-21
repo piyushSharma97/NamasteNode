@@ -8,7 +8,7 @@ DevTinder is a MERN application for developers to connect and collaborate. This 
 
 ## Repository Link
 
-* [DevTinder Backend Repository](https://github.com/akshadjaiswal/devTinder-backend)
+* [DevTinder Backend Repository](https://github.com/piyushSharma97/DevTinder-backend)
 
 ## HTTP Methods
 
